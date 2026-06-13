@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/labios-que-mienten-bien/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Labios que mienten bien](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/labios-que-mienten-bien/) |
+| **Get License** | [Music Rights & Licensing for Labios que mienten bien](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/labios-que-mienten-bien/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Esos labios que mienten bien en la oscuridad
+> Me dicen que no me quieres, pero vuelves por más
+> Siento el fuego en tu piel cuando nos come la ciudad
+> Bailando en el centro de la pista, perdiendo la gravedad
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
