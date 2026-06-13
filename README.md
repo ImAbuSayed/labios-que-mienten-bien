@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/labios-que-mienten-bien/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Labios que mienten bien](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/labios-que-mienten-bien/) |
+| **Get License** | [Get License For Labios que mienten bien](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/labios-que-mienten-bien/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `b315408a3cce1f935cad04ad1161a40b0922ab8608a3ea195fafd6d721fc2e00` |
 | **Timestamp** | June 14, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

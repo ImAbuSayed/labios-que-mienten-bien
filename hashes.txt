@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Labios que mienten bien
+
+This log tracks the cryptographic history and versioning for the song **Labios que mienten bien** (labios-que-mienten-bien).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-14T04:01:00.532402 | `v1` | `b315408a3cce1f935cad04ad1161a40b0922ab8608a3ea195fafd6d721fc2e00` | `a6dc3e09e49b5f8d635ce9147f870b90c65532cfbca91bae5eacdc8c047a04e5` | `2026-06-14_labios-que-mienten-bien-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
